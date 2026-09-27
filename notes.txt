@@ -5,3 +5,5 @@ to serve locally: bundle exec jekyll serve --baseurl ''
 
 you can also remove the --baseurl
 if you want to simulate linking on github pages
+
+- to fix a video: ffmpeg -i kawasaki-c151a-pioneer.mp4 -c copy -movflags +faststart kawasaki-c151a-pioneer-o.mp4
