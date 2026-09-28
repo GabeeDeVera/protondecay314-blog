@@ -106,3 +106,5 @@ If you'd like to see the list of location pins, check [this Google Earth project
 And if you haven't already, go watch [Tanner](https://www.youtube.com/@tanners.videos)! He's a relatively lowkey train YouTuber who goes to chill, unusual places in Japan. He uploads laidback content every week around Saturday!
 
 The moral of the story: Never trust Google Maps! (joke)
+
+## Footnotes
